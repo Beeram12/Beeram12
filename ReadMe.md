@@ -1,11 +1,9 @@
-
-# 💫 About Me:
 ## 👋 About Me
 🔭 **I’m currently working on** 
 - Backend systems using **Go** and **C++**.
 - Scalable APIs, data pipelines, and system-level projects. 
 
-👯 **I’m looking to collaborate on**  
+## 👯 **I’m looking to collaborate on**  
 - Open-source backend/systems projects.
 - Go-based tooling, CLIs, and infrastructure projects.
 - Performance-critical or distributed systems.
